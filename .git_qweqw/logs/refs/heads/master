@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 52613663bbf86dbf0d2150c648be47b4c53d3358 vasanthrize <vasanth@rizecorp.net> 1486708027 +0530	commit (initial): Intial Commit
+52613663bbf86dbf0d2150c648be47b4c53d3358 ead3e409923c18f2429ffd20ec7b12a6c2b7399c vasanthrize <vasanth@rizecorp.net> 1486708122 +0530	commit (merge): merge conflicts
+ead3e409923c18f2429ffd20ec7b12a6c2b7399c 9bcbb6ebf01247a18e08bee78884d34f3acff7c2 vasanthrize <vasanth@rizecorp.net> 1486981569 +0530	commit: added api for manage pages
+9bcbb6ebf01247a18e08bee78884d34f3acff7c2 8b41406c108515308d6855645e505b1214265450 vasanthrize <vasanth@rizecorp.net> 1487051402 +0530	commit: api fixes

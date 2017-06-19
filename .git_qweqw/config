@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://srinivasrize@bitbucket.org/srinivasrize/xploration_build.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

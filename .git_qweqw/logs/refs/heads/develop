@@ -1,0 +1,54 @@
+0000000000000000000000000000000000000000 8b41406c108515308d6855645e505b1214265450 vasanthrize <vasanth@rizecorp.net> 1487051433 +0530	branch: Created from HEAD
+8b41406c108515308d6855645e505b1214265450 dc74d4d8e8117a45dddde77eeb8b64fb0f72ef15 vasanthrize <vasanth@rizecorp.net> 1487077346 +0530	commit: functionality done by chai
+dc74d4d8e8117a45dddde77eeb8b64fb0f72ef15 c1dda48c7a3cdfc5f46cd54a0fb31534a91b8bfa vasanthrize <vasanth@rizecorp.net> 1487078987 +0530	commit: edit module issues
+c1dda48c7a3cdfc5f46cd54a0fb31534a91b8bfa d88a4b10471b8032f963436f74c4711e22da6da5 vasanthrize <vasanth@rizecorp.net> 1487148063 +0530	commit: functionality done by chai
+d88a4b10471b8032f963436f74c4711e22da6da5 1dbb9f3cbfa01fae5635e27110d3afc747e42484 vasanthrize <vasanth@rizecorp.net> 1487149112 +0530	commit (merge): merge conflicts
+1dbb9f3cbfa01fae5635e27110d3afc747e42484 ecf4cf2dd6ea24c0edf2ace5391397bc5689a9d6 vasanthrize <vasanth@rizecorp.net> 1487165427 +0530	commit: functionality done by chai
+ecf4cf2dd6ea24c0edf2ace5391397bc5689a9d6 7ec2ae0fd641280603172a29033ea60c5994fd8c vasanthrize <vasanth@rizecorp.net> 1487166059 +0530	commit: build upadtes
+7ec2ae0fd641280603172a29033ea60c5994fd8c 9e55b34fef1f8d551d38876472e49e2ea78396a0 vasanthrize <vasanth@rizecorp.net> 1487166664 +0530	commit (merge): fixes in develop
+9e55b34fef1f8d551d38876472e49e2ea78396a0 89fbaf024af07315a4acf2ce40cf7c5091feeecf vasanthrize <vasanth@rizecorp.net> 1487167491 +0530	commit: fixes
+89fbaf024af07315a4acf2ce40cf7c5091feeecf 11a2c3021a578835299c6b606ffccf218065953e vasanthrize <vasanth@rizecorp.net> 1487227680 +0530	commit: media module by chai
+11a2c3021a578835299c6b606ffccf218065953e bfe46205fa5bd6ec5272c696b9f28a85fadf2469 vasanthrize <vasanth@rizecorp.net> 1487228994 +0530	merge bugfixes_16/02/17: Merge made by the 'recursive' strategy.
+bfe46205fa5bd6ec5272c696b9f28a85fadf2469 308617b535bc6de6583a5a0f685fcabfdb1286a6 vasanthrize <vasanth@rizecorp.net> 1487234085 +0530	commit: media uploads
+308617b535bc6de6583a5a0f685fcabfdb1286a6 5dec93fc8246905bbc2dbc266a33bfac466008dd vasanthrize <vasanth@rizecorp.net> 1487338013 +0530	commit: func by chai
+5dec93fc8246905bbc2dbc266a33bfac466008dd 5f14828d2f0cabf03c73927e3de469b9e0b52d37 vasanthrize <vasanth@rizecorp.net> 1487338596 +0530	commit (merge): merge conflicts
+5f14828d2f0cabf03c73927e3de469b9e0b52d37 965ce3aa15452d4701282627c0ed7af43892fa55 vasanthrize <vasanth@rizecorp.net> 1487411673 +0530	commit: api changes
+965ce3aa15452d4701282627c0ed7af43892fa55 336204c9c11d0d2514d86699ccce3537afba2de9 vasanthrize <vasanth@rizecorp.net> 1487587065 +0530	commit: fixes
+336204c9c11d0d2514d86699ccce3537afba2de9 8f592890d60610c4427c4f653f043003d09e3d4f vasanthrize <vasanth@rizecorp.net> 1487598503 +0530	commit: fixes
+8f592890d60610c4427c4f653f043003d09e3d4f baf720485dc0cadcbe249f043808d75c937a9067 vasanthrize <vasanth@rizecorp.net> 1487745269 +0530	commit: shows module and explorers module
+baf720485dc0cadcbe249f043808d75c937a9067 2a4c6075f53756dc1ac7c62013e21c9c63e585af vasanthrize <vasanth@rizecorp.net> 1487771603 +0530	commit: latest fixes
+2a4c6075f53756dc1ac7c62013e21c9c63e585af 118476250aa07dfafa05f1ccadd66d90e8f59f23 vasanthrize <vasanth@rizecorp.net> 1487772647 +0530	commit: techexplorer
+118476250aa07dfafa05f1ccadd66d90e8f59f23 eddcf409abc72c23196ec21b67feb8e1aed29568 vasanthrize <vasanth@rizecorp.net> 1487841494 +0530	commit: episodes module
+eddcf409abc72c23196ec21b67feb8e1aed29568 e4947db11a31866b9bf3b62961898b691331b397 vasanthrize <vasanth@rizecorp.net> 1488022627 +0530	commit: latest fixes
+e4947db11a31866b9bf3b62961898b691331b397 f019a82efc41630e1b758d93f67ce7e92b860f77 vasanthrize <vasanth@rizecorp.net> 1488203543 +0530	commit: latest fixes
+f019a82efc41630e1b758d93f67ce7e92b860f77 906bbd3695d0aedaf56c336b19fd8c8aaa638617 vasanthrize <vasanth@rizecorp.net> 1488273089 +0530	commit: latest fixes
+906bbd3695d0aedaf56c336b19fd8c8aaa638617 47f8f6fefed7a1b2eff7decc8bc80dda24948b10 vasanthrize <vasanth@rizecorp.net> 1488286475 +0530	commit: latest fixes
+47f8f6fefed7a1b2eff7decc8bc80dda24948b10 96374d49aaa16cc1cb37627acc02b4861c63aec0 vasanthrize <vasanth@rizecorp.net> 1488287491 +0530	commit: category update fixes
+96374d49aaa16cc1cb37627acc02b4861c63aec0 d763f75da874d85b4a2809aa1b66cfe2e8665f87 vasanthrize <vasanth@rizecorp.net> 1488365745 +0530	commit: updates
+d763f75da874d85b4a2809aa1b66cfe2e8665f87 979308c3d7a26df8648419f6e567f480f1840b90 vasanthrize <vasanth@rizecorp.net> 1488514824 +0530	commit: latest fixes
+979308c3d7a26df8648419f6e567f480f1840b90 f032bd20ca907c4360bf096ac84689ee191e74a5 vasanthrize <vasanth@rizecorp.net> 1488544390 +0530	merge design_03/03/17: Fast-forward
+f032bd20ca907c4360bf096ac84689ee191e74a5 7a0ec6d7a34d8218607235c8b0a41b5657ecc09d vasanthrize <vasanth@rizecorp.net> 1488807063 +0530	commit: latest fixes
+7a0ec6d7a34d8218607235c8b0a41b5657ecc09d 061bf1dee487447185a54dc57d8f9c49e0483fc5 vasanthrize <vasanth@rizecorp.net> 1488894459 +0530	commit: today fixes
+061bf1dee487447185a54dc57d8f9c49e0483fc5 2b52777134cbe409fb6008a35f9090da7e67de6a vasanthrize <vasanth@rizecorp.net> 1488963277 +0530	commit: fixes
+2b52777134cbe409fb6008a35f9090da7e67de6a 1a19efe57226ad27d2110826e80843648d00b43d vasanthrize <vasanth@rizecorp.net> 1488980169 +0530	commit: latest fixes
+1a19efe57226ad27d2110826e80843648d00b43d cb8e1ed0bb8667561605046efb3d4a4001fe6906 vasanthrize <vasanth@rizecorp.net> 1489124353 +0530	commit: latest changes
+cb8e1ed0bb8667561605046efb3d4a4001fe6906 5be29ebe85d9e566ffa86c6e3aeb8b36eead45d6 vasanthrize <vasanth@rizecorp.net> 1489219592 +0530	commit: today fixes
+5be29ebe85d9e566ffa86c6e3aeb8b36eead45d6 e4d279e6604268583bc5dbc88bb97fbdbc106444 vasanthrize <vasanth@rizecorp.net> 1489221197 +0530	commit: latest fixes
+e4d279e6604268583bc5dbc88bb97fbdbc106444 0d3a0115dcc61285368b5a28ecb21aa9e05a8afc vasanthrize <vasanth@rizecorp.net> 1489234322 +0530	commit: latest fixes
+0d3a0115dcc61285368b5a28ecb21aa9e05a8afc 588d7f5d899a795a37062704c15fb8200ce2f1bc vasanthrize <vasanth@rizecorp.net> 1489234721 +0530	commit: post fixes
+588d7f5d899a795a37062704c15fb8200ce2f1bc e4871b64aa192b3d0daa319ed2d5a36c13dd98dc vasanthrize <vasanth@rizecorp.net> 1489395163 +0530	commit: development fixes
+e4871b64aa192b3d0daa319ed2d5a36c13dd98dc 97edc3bfc00fea50d6d992f78c63eb29d7def6c9 vasanthrize <vasanth@rizecorp.net> 1489726024 +0530	commit: latest fixes
+97edc3bfc00fea50d6d992f78c63eb29d7def6c9 9e6ffe5348039748afcbc2faeaa650320eb98b4d vasanthrize <vasanth@rizecorp.net> 1489747565 +0530	commit: api fixes
+9e6ffe5348039748afcbc2faeaa650320eb98b4d ad20059f79e4d7b1389e00776f548882192d98e3 vasanthrize <vasanth@rizecorp.net> 1489769536 +0530	commit: shows page api
+ad20059f79e4d7b1389e00776f548882192d98e3 4ea21ed3e17e1d27478448c0b1289e25773b010e vasanthrize <vasanth@rizecorp.net> 1489985690 +0530	commit: api changes
+4ea21ed3e17e1d27478448c0b1289e25773b010e 4c562063a35007186b37b9e93ed94fcb17647ef1 vasanthrize <vasanth@rizecorp.net> 1490006474 +0530	commit: show and post fixes
+4c562063a35007186b37b9e93ed94fcb17647ef1 afa186fe299c6785817fa060aa8a149350a4298c vasanthrize <vasanth@rizecorp.net> 1490015203 +0530	commit: api changes
+afa186fe299c6785817fa060aa8a149350a4298c 67a7e953286c104b533d7cf8037b5cf8e720354c vasanthrize <vasanth@rizecorp.net> 1490094134 +0530	merge design_21/03/17: Fast-forward
+67a7e953286c104b533d7cf8037b5cf8e720354c c0a65e66f7078ac901c2312d856e96d1df80c0f1 vasanthrize <vasanth@rizecorp.net> 1490103252 +0530	commit: xplorer changes
+c0a65e66f7078ac901c2312d856e96d1df80c0f1 b08686b62abbc58b14bb70536b2e7c05f9e01f62 vasanthrize <vasanth@rizecorp.net> 1490187174 +0530	commit: fixes
+b08686b62abbc58b14bb70536b2e7c05f9e01f62 604a9bbb92b09cce06e1254a3b32bcb94cadecd5 vasanthrize <vasanth@rizecorp.net> 1490277053 +0530	commit: api changes
+604a9bbb92b09cce06e1254a3b32bcb94cadecd5 6fc18fcb3f41da36ca7189eed30d819d1e798c75 vasanthrize <vasanth@rizecorp.net> 1490333901 +0530	commit: rss feed changaes
+6fc18fcb3f41da36ca7189eed30d819d1e798c75 3ae36760b76178586672d0be788ca052e19ce2ab vasanthrize <vasanth@rizecorp.net> 1490367148 +0530	commit: api changes
+3ae36760b76178586672d0be788ca052e19ce2ab 9c1b223af9e0625b255c21a51c7b96bd4fa847b0 vasanthrize <vasanth@rizecorp.net> 1490709364 +0530	commit: episodes page
+9c1b223af9e0625b255c21a51c7b96bd4fa847b0 6c41c9106972861179a98f043c6cb3f2ae9db6aa vasanthrize <vasanth@rizecorp.net> 1490710282 +0530	commit: show links changes
+6c41c9106972861179a98f043c6cb3f2ae9db6aa 2be3ccce69e976201d67d7e0c785e1faa76d8d31 vasanthrize <vasanth@rizecorp.net> 1490873310 +0530	commit: sharing functionality
